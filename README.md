@@ -1,1 +1,3 @@
 # Code-refactor-fix
+This respository was made using the refactored code given for the Horiseon Social Solutions webpage. Previously it was difficult for people with disabilites to access the website. Now it be viewed much easier for people with disabilites with many differnt features like sreen readers. The webpage has been optimized so it looks much cleaner and easier to view when the page is pulled up. 
+When looking at the code I noticed few things that could be changed to improve the overall experience for people when clicking on the webpage. There is more semantic HTML elements in use so it is much easier to follow the code for the website.
